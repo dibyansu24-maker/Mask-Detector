@@ -1,4 +1,5 @@
-# Mask-Detector
+# Face Mask Detector
+
 Real-time face mask detection model
 
 ## :computer: Tech/framework used
