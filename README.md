@@ -1,2 +1,2 @@
 # Mask-Detector
-Real time face mask detection model
+Real-time face mask detection model
